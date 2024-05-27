@@ -11,7 +11,7 @@
   <!-- Footer Section -->
 <section class="footer bg-dark">
   <div class="container text-white py-5 text-center">
-     <p>Copyright © <%=Calendar.getInstance().get(Calendar.YEAR)%> GSMS - (Developed by Mandeep Singh). All Rights Reserved</p>
+     <p>Copyright Â© <%=Calendar.getInstance().get(Calendar.YEAR)%> GSMS - (Developed by Kanishka Patel). All Rights Reserved</p>
   </div>
 </section>
 <!-- Footer End Section -->
